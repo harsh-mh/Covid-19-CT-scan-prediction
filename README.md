@@ -1,0 +1,1 @@
+This an attempt to use different CNN architectures for the final project of Deep learnig basic module. This project is carried out in MATLAB and data preprocessing is done in Python. The report Covid-19 gives us the methodolgy and observations for this architectures.
